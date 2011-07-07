@@ -1,1 +1,0 @@
-cgi-bin/anatomy_function.cgi
